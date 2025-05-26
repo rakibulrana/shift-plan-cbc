@@ -1,0 +1,20 @@
+# Virtual environment
+env/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# SQLite DB (if using one temporarily)
+db.sqlite3
